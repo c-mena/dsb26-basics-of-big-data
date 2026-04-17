@@ -9,7 +9,7 @@ Se utiliza el **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggl
 ## Estructura del Proyecto
 
 - [`README.md`](README.md): Presentación y documentación del proyecto.
-- [`main.ipynb`](main.ipynb) ([▶ Ver en nbviewer](https://nbviewer.org/github/c-mena/dsb26-basics-of-big-data/blob/main/main.ipynb)): Notebook interactivo principal que contiene todo el desarrollo del caso.
+- [`main.ipynb`](main.ipynb) ([▶ _Ver en_ __nbviewer__](https://nbviewer.org/github/c-mena/dsb26-basics-of-big-data/blob/main/main.ipynb)): Notebook interactivo principal que contiene todo el desarrollo del caso.
 - [`technical_report.md`](technical_report.md): Informe técnico con el resumen ejecutivo de los hallazgos, análisis, reflexiones y conclusiones.
 - [`technical_report.pdf`](technical_report.pdf): Versión PDF del informe técnico.
 - [`data/brazilian-ecommerce.zip`](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce): Dataset comprimido (No incluido en el repositorio. Se descarga automáticamente al ejecutar `main.ipynb`).
