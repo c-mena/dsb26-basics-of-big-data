@@ -14,8 +14,8 @@ Se utiliza el **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggl
 - [`technical_report.pdf`](technical_report.pdf): Versión PDF del informe técnico.
 - [`data/brazilian-ecommerce.zip`](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce): Dataset comprimido (No incluido en el repositorio. Se descarga automáticamente al ejecutar `main.ipynb`).
 - `data/brazilian-ecommerce/`: Archivos CSV extraídos del dataset (No incluidos en el repositorio).
-- [`data/enriched_orders.parquet`](data/enriched_orders.parquet): DataFrame enriquecido con datos consolidados de pedidos, generado en la Lección 4.
-- [`data/customer_segments.parquet`](data/customer_segments.parquet): Resultados de la segmentación de clientes (K-Means), generado en la Lección 5.
+- [`data/enriched_orders.parquet`](data/enriched_orders.parquet): DataFrame enriquecido con datos consolidados de pedidos, generado en la sección 4.
+- [`data/customer_segments.parquet`](data/customer_segments.parquet): Resultados de la segmentación de clientes (K-Means), generado en la sección 5.
 
 ## Requisitos y Tecnologías
 
